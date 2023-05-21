@@ -1,4 +1,4 @@
-# Parallel computing using a cluster of Raspberry Pi
+# Parallel computing using a Raspberry Pi cluster
 
 Click on the [notebook called parallel computing.ipynb](<parallel computing.ipynb>) to view the contents.
 
